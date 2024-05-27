@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/img">
+        <file alias="Ti">ti.ico</file>
+        <file alias="TiSignature">TISignature.png</file>
+        <file alias="TiSplash">TISplash.png</file>
+        <file alias="TiLogo">TILogo48x48.png</file>
+        <file alias="32Connect">connect.png</file>
+        <file alias="32Disconnect">disconnect.png</file>
+        <file alias="32Play">control_play_blue.png</file>
+        <file alias="32Stop">control_stop_blue.png</file>
+        <file alias="32Plot">chart_curve.png</file>
+        <file alias="32Capture">picture_save.png</file>
+        <file alias="32Print">printer.png</file>
+        <file alias="32Undo">undo.png</file>
+        <file alias="32Save">diskette.png</file>
+        <file alias="32Open">folder.png</file>
+        <file alias="32Exit">door_in.png</file>
+        <file alias="32Refresh">arrow_refresh.png</file>
+        <file alias="32Remove">cross.png</file>
+        <file alias="32Help">help.png</file>
+        <file alias="32Light">lightbulb.png</file>
+        <file alias="32Info">information.png</file>
+    </qresource>
+</RCC>
